@@ -3,3 +3,13 @@
   padding: 0;
   font-family: verdana;
 }
+
+div {
+width: 70%;
+margin-left: auto;
+margin-right: auto;
+color: purple;
+font-size: 2em;
+text-align: center;
+}
+
